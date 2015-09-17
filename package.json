@@ -1,0 +1,18 @@
+{
+  "name": "node-parse-soap",
+  "version": "0.1.0",
+  "description": "NODEJS SOAP PARSER",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.1.7",
+    "soap": "^0.9.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  }
+}
